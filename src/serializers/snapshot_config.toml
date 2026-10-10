@@ -1,0 +1,3 @@
+# Limits applied while a snapshot is read back at start-up.
+read_timeout_ms = 500
+max_retries = 0
